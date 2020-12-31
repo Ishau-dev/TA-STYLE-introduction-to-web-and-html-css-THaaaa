@@ -1,0 +1,26 @@
+body{
+    background-color: #22396a;
+}
+
+.container{
+    color: white;
+}
+
+h2{
+    color: #31BB66;
+    font-weight: bolder;
+}
+
+h3{
+    font-weight: bold;
+}
+
+p{
+    font-size: 16px;
+}
+
+
+.links a{
+    color: #F6234D;
+    padding-right: 20px;
+}
